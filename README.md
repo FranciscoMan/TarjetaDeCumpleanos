@@ -1,6 +1,9 @@
 # TarjetaDeCumpleaños
 La siguiente aplicacion tiene como proposito mostrar un diseño simple para una tarjeta de felicitacion de cumpleaños
 ***
+# Vista Previa
+![Una imagen cualquiera](preview.png "Imagen")
+***
 # Codigo XML
 ~~~
 <?xml version="1.0" encoding="utf-8"?>
